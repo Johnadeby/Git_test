@@ -1,2 +1,2 @@
 # Git_test
-My first GitHub report!
+My first GitHub repo!
